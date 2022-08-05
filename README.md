@@ -1,5 +1,8 @@
-# Hotel-Booking-Analysis-
+# Hotel-Booking-Analysis
 Analyzing the data with city hotel and resort hotel
+
+![image](https://user-images.githubusercontent.com/90926349/183110349-dfcadfd7-475f-4dd0-8e68-2aef340f8fe6.png)
+
 
 # Problem Statement
 
